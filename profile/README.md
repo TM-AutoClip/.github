@@ -1,5 +1,9 @@
 # TM AutoClip
 
+[English](#english) · [Türkçe](#türkçe)
+
+## English
+
 **From stream to clips, from clips to your channels.**
 
 A Windows app for streamers and clip editors: it downloads Kick, Twitch and YouTube streams, finds clip-worthy
@@ -14,5 +18,16 @@ Contact: tmautoclip@proton.me
 
 ---
 
-🇹🇷 **Yayınından kliplere, kliplerden kanallarına.** Yayıncılar ve kesit editörleri için Windows uygulaması.
-Geliştirme aşamasında.
+## Türkçe
+
+**Yayınından kliplere, kliplerden kanallarına.**
+
+Yayıncılar ve kesit editörleri için Windows uygulaması: Kick, Twitch ve YouTube yayınlarını indirir, yerel yapay
+zekâ ile kliplik anları bulur, altyazılı dikey ve yatay klipler hazırlar ve bunları kendi bilgisayarından YouTube,
+Instagram ve TikTok'a yükler.
+
+*Durum: geliştirme aşamasında, henüz yayımlanmadı.*
+
+`*craft` depoları, uygulama için uyarladığımız açık kaynak araçların çatallarıdır (fork).
+
+İletişim: tmautoclip@proton.me
